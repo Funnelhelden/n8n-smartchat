@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-smartchat",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n nodes for SmartChat: WhatsApp marketing with contacts, messages, newsletters, automations and SmartChat AI.",
 	"license": "MIT",
 	"homepage": "https://docs.smartchat.marketing",
